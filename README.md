@@ -6,9 +6,9 @@ The system automatically categorizes emergency requests, recommends the appropri
 
 ---
 
-## 📌 Features
+## Features
 
-### 🚨 Emergency Incident Management
+### Emergency Incident Management
 - Report emergency incidents
 - Automatic incident classification
 - Priority detection (Critical, High, Medium, Low)
@@ -16,7 +16,7 @@ The system automatically categorizes emergency requests, recommends the appropri
 - Incident status tracking
 - Resolve incidents
 
-### 🤖 AI-Based Classification
+### AI-Based Classification
 - Automatic emergency category prediction
 - Supports:
   - Fire
@@ -27,7 +27,7 @@ The system automatically categorizes emergency requests, recommends the appropri
   - Water
   - General Emergency
 
-### 🚑 Smart Resource Allocation
+### Smart Resource Allocation
 - Automatically recommends the correct emergency team
 - Finds the nearest available resource
 - Calculates:
@@ -35,7 +35,7 @@ The system automatically categorizes emergency requests, recommends the appropri
   - Estimated arrival time (ETA)
 - Prevents assigning already busy resources
 
-### 🗺 Live Map Visualization
+### Live Map Visualization
 - Interactive map using Leaflet
 - Displays:
   - Emergency locations
@@ -43,7 +43,7 @@ The system automatically categorizes emergency requests, recommends the appropri
   - Live dispatch movement
 - Real-time incident visualization
 
-### 📊 Dashboard
+### Dashboard
 - Total Incidents
 - Critical Incidents
 - Medical Requests
@@ -52,13 +52,13 @@ The system automatically categorizes emergency requests, recommends the appropri
 - Incident Statistics Chart
 - Recent Incident Activity
 
-### 📂 Incident History
+### Incident History
 - Stores resolved incidents
 - Search previous incidents
 - View incident details
 - Resolution timestamps
 
-### 🚒 Resource Management
+### Resource Management
 - View all emergency resources
 - Resource status monitoring
 - Available / Assigned resources
@@ -66,7 +66,7 @@ The system automatically categorizes emergency requests, recommends the appropri
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 ## Frontend
 
